@@ -92,7 +92,7 @@ $token = csrf_token();
         </div>
 
         <button class="btn" type="submit">Register</button>
-        <p class="center small">Already have an account? <a href="login.php">Log in</a></p>
+        <p class="center small">Already have an account? <a href="index.php">Log in</a></p>
       </form>
     </div>
   </main>
